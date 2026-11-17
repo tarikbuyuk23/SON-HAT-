@@ -1,0 +1,6 @@
+{
+  "name": "SON HAT",
+  "description": "Yakın gelecekte terk edilmiş bir sanayi bölgesinde geçen 3D birinci şahıs nişancı (FPS) oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
